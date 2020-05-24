@@ -17,6 +17,7 @@ public class Sfb {
         ventana.setLocationRelativeTo(null);
         ventana.setDefaultCloseOperation(jPrincipalSFB.EXIT_ON_CLOSE);
 	System.out.println("Cambio de Git");
+	System.out.println("Usuario: admin");
     }
 
 }
