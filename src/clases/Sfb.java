@@ -16,6 +16,7 @@ public class Sfb {
         ventana.setResizable(false);
         ventana.setLocationRelativeTo(null);
         ventana.setDefaultCloseOperation(jPrincipalSFB.EXIT_ON_CLOSE);
+	System.out.println("Cambio de Git");
     }
 
 }
